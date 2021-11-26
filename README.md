@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Darnuff
+- 👋 Hi, I’m @mitchthefrog
 - 👀 I’m interested in quantum computing and general computer science
 - 🌱 I'm learning JS, Python, and HTML/CSS
-- 💞️ I’m looking to collaborate on youtube ig
+- 💞️ I’m looking to collaborate on youtube I guess
 - 📫 Reach me at m.doyle0101@gmail.com
 
 <!---
